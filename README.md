@@ -1,3 +1,7 @@
+# A great boilerplate for ant project
+
+Since I use SCSS 99 % of the time this boilerplate starts me off very quickly when building a new project.
+
 # Foundation Compass Template
 
 The easiest way to get started with Foundation + Compass.
